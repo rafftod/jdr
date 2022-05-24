@@ -17,7 +17,7 @@ Une fois ces caractéristiques déterminées, vous avez déjà une idée de la d
 
 -   Alchimiste : pratiquant de la noble magie de Kniga, l'alchimiste sait créer des potions et peut identifier la nature de substances qui le permettent.
 
--   Combattant : très puissant physiquement et menaçant, le combattant se focalise sur le combat au corps à corps, souvent équipé d'une lourde armure, d'armes et d'un bouclier.
+-   Combattant : très puissant physiquement et menaçant, le combattant se focalise sur le combat au corps à corps, souvent équipé d'une lourde armure, d'armes et d'un bouclier. Il possède également des compétences de soin rudimentaires.
 
 -   Le mage d'Aria : le mage est un personnage qui est capable de manipuler la magie et d'utiliser des sorts variés (élémentaires, spirituels ou psychologiques). Chaque mage a un _potentiel_, quantité de magie donnée qu'il lui reste avant de sombrer dans la folie. Ici, 3 options sont possibles :
 
@@ -41,7 +41,7 @@ Une fois ces caractéristiques déterminées, vous avez déjà une idée de la d
     
     **Note** : un mage de Varna nécessite une Intelligence minimale de 16.
 
-Bien sûr, ce ne sont que des exemples ! Ils sont là pour vous aider à voir les possibilités, mais tout est possible (barde, diplomate, marchand...) ! Faites un personnage que vous avez vraiment envie de jouer, c'est le plus important !
+Bien sûr, ce ne sont que des exemples ! Ils sont là pour vous aider à voir les possibilités, mais tout est possible (barde, diplomate, marchand, cuisinier, médecin...) ! Faites un personnage que vous avez vraiment envie de jouer, c'est le plus important !
 
 # Les compétences
 
@@ -95,6 +95,9 @@ Pour calculer vos compétences :
 	- Lire, écrire à 60%
 	- Courir, sauter à 70%
 	S’ils dépassent ceux calculés au préalable, les scores ci-dessus les remplacent.
+- *Alchimiste* :
+	- Identifier une substance 40%
+	- Créer une potion 60%
 
 **Note** : cela peut sembler beaucoup de bonus pour les mages. A la fin de la création des personnages du groupe, chaque personnage non-mage recevra entre 10 et 20 points dans 2 compétences représentatives de sa profession pour équilibrer la balance, donc pas d'inquiétude ! 
 

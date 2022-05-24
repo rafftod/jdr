@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 312
   },
   "right": {
     "id": "c0e7156c0c31841d",
@@ -90,6 +90,8 @@
   "active": "bb997eed20b7f415",
   "lastOpenFiles": [
     "Aria/Créer son personnage.md",
+    "Aria/La magie.md",
+    "Aria/L'équipement.md",
     "README.md",
     "Knight.md",
     "Knight/README.md",
