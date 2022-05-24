@@ -1,6 +1,17 @@
-Yo ! J'ai commencé à préparer la première séance, et on utilisera au final le système d'Aria (de Game Of Roles si vous connaissez). J'aurais besoin que, pour la première séance, vous ayez une idée du personnage que vous voulez jouer. Pour situer le contexte, c'est de la low fantasy, c'est-à-dire de la fantasy médiévale où la seule espèce consciente est l'humain (pas d'elfes, de nains, ...), bien que des animaux fantastiques puissent exister.
+# Les caractéristiques
 
-Première chose : l'archétype. Cet archétype déterminera votre équipement et vos compétences de classe. Le coeur de votre gameplay au début du jeu est basé sur l'archétype que vous allez choisir. Quelques exemples :
+Un personnage dispose de cinq caractéristiques : 
+- La **Force** est une mesure de la puissance musculaire du personnage. Cette caractéristique donne une idée de ce qu’il peut soulever, porter, pousser ou tirer. 
+- La **Dextérité** mesure la vivacité, l’agilité et la rapidité physique du personnage. 
+- L’**Endurance** rend compte de la vitalité et de la santé du personnage. 
+- L’**Intelligence** décrit les capacités d’apprentissage, de mémorisation et d’analyse de votre personnage. Elle ne remplace pas l’intelligence du joueur, mais gère, à sa place, un certain nombre de tâches fastidieuses. 
+- Le **Charisme** donne un ordre d’idée de l’apparence générale de votre personnage et de l’impression qu’il fait sur les gens au premier contact.
+
+Vous pouvez répartir **60** points dans ces 5 caractéristiques avec un minimum de 4 et un maximum de 18. Si vous voulez laisser le hasard sculpter votre personnage, vous pouvez, pour chacune des compétences, lancer 3 dés à 6 faces (abrévié en 3d6) et sommer le résultat. Pour lisser le résultat, vous pouvez relancer 2 fois (pour un total de 3 jets de 3d6 par compétence), et choisir le résultat qui vous convient le mieux.
+
+# La profession
+
+Une fois ces caractéristiques déterminées, vous avez déjà une idée de la direction de votre personnage. La profession du personnage est un archétype qui déterminera votre équipement et vos compétences de classe. Le coeur de votre gameplay au début du jeu est basé sur la profession que vous allez choisir. Quelques exemples :
 
 -   Aventurier : Assez équilibré, peu de compétences spéciales, mais très bonnes chances de survivre. Individu nomade qui peut se débrouiller en à peu près tout.
 
@@ -13,6 +24,8 @@ Première chose : l'archétype. Cet archétype déterminera votre équipement et
     -   Un jeune mage qui n'a pas (encore?) intégré l'académie d'Aria, avec beaucoup de potentiel mais peu de compétences liées à la pratique de la magie.
     -   Un magicien de la couronne d'Aria, ou disciple de l'académie. Ce personnage peut modéliser (donner une forme particulière à sa magie) plus précisement, mais a moins de potentiel magique. Son statut public de mage peut lui ouvrir de nombreuses portes dans le monde entier. Il se conforme à un code moral strict lié à sa profession.
     -   Un miséricordieux. Quand le potentiel des mages se tarit, ils ont tendance à devenir incontrôlables. L'ordre des miséricordieux est un corps d'élite de mages chargé de traquer ceux qui approchent de cette fin, capables de magie de haut niveau et de combat traditionnel sans pitié. Lui-même très, voire trop avancé dans sa pratique magique, il se repaît de la magie des autres.
+    
+    **Note** : un mage d'Aria nécessite une Intelligence minimale de 14.
 
 -   Noble : ses plus grands atouts sont sa verbe et ses connaissances du monde de l'aristocratie. Baratiner quelqu'un ou trouver un mécène est un jeu d'enfant pour le noble, charismatique et beau-parleur.
 
@@ -24,3 +37,7 @@ Première chose : l'archétype. Cet archétype déterminera votre équipement et
     -   Bouclier: crée un champ de force individuel qui protège, comme une bulle, le praticien de tout danger, que ce soit un rocher de plusieurs tonnes ou de la pluie froide.
 
     Le mage de Varna peut apprendre des sortilèges supplémentaires dans des ouvrages ou auprès de maitres indépendants. Cependant, l'intensité de sa magie diminue au fur et à mesure que le mage s'éloigne du Tansanli.
+    
+    **Note** : un mage d'Aria nécessite une Intelligence minimale de 16.
+
+Bien sûr, ce ne sont que des exemples ! Ils sont là pour vous aider à voir les possibilités, mais tout est possible (barde, diplomate, marchand...) ! Faites un personnage que vous avez vraiment envie de jouer, c'est le plus important !
