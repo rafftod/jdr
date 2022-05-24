@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "4cbecc14f602c44d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c309d323981accc7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Système de jeu.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e1aea1025e28dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6b2b6e384aa30d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "106a8efe2d1a59f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe71f65ba7d87bf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287
+  },
+  "right": {
+    "id": "af7110d924748e08",
+    "type": "split",
+    "children": [
+      {
+        "id": "b23c4983fc0e711e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2817ce668181ce0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Système de jeu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c309d323981accc7",
+  "lastOpenFiles": [
+    "Système de jeu.md",
+    "Créer son personnage.md",
+    "Le Knight.md",
+    "README.md",
+    "Le monde d'aujourd'hui.md",
+    "Contexte historique.md",
+    "Personnages importants.md"
+  ]
+}

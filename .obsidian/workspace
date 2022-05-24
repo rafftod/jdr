@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "e1cca048091a3840",
+    "type": "split",
+    "children": [
+      {
+        "id": "e618442421c99c7d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Aria/Créer son personnage.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a5df9255497b4bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d696124cf4ec0ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5d18ea7ac00f0bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6649d771adf1799",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0e7156c0c31841d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf3440c93af3e094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a02f6ea049b9c8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aria/Créer son personnage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e618442421c99c7d",
+  "lastOpenFiles": [
+    "Aria/Créer son personnage.md",
+    "Knight/README.md",
+    "Knight/Système de jeu.md",
+    "Knight/Personnages importants.md",
+    "Knight/Le Knight.md",
+    "Knight/Contexte historique.md"
+  ]
+}
