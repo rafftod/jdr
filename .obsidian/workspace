@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aria/Créer son personnage.md",
+            "file": "Aria/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aria/Créer son personnage.md",
+                "file": "Aria/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "bb997eed20b7f415",
   "lastOpenFiles": [
-    "Aria/Créer son personnage.md",
+    "Aria/README.md",
     "Aria/La magie.md",
+    "Aria/Créer son personnage.md",
     "Aria/L'équipement.md",
     "README.md",
     "Knight.md",
     "Knight/README.md",
     "Knight/Système de jeu.md",
     "Knight/Personnages importants.md",
-    "Knight/Le Knight.md",
-    "Knight/Contexte historique.md"
+    "Knight/Le Knight.md"
   ]
 }
