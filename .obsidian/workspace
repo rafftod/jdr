@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aria/Créer son personnage.md",
+            "file": "README.md.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aria/Créer son personnage.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "e618442421c99c7d",
   "lastOpenFiles": [
+    "README.md.md",
+    "Knight.md",
     "Aria/Créer son personnage.md",
     "Knight/README.md",
     "Knight/Système de jeu.md",
