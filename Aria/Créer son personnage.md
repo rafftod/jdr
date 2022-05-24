@@ -76,8 +76,8 @@ Pour calculer vos compétences :
 
 ***Exemple :*** *Clodomir dispose d’un score de 13 en Charisme et de 15 en Intelligence. Son score initial en Mentir, convaincre est donc de: (13+15) x 2, soit 56 %. Il décide de dépenser 24 de ses 50 points pour améliorer cette compétence qu’il estime vitale, passant son score à 80 %.*
 
-**Note :** les mages ont accès dès le départ à des compétences particulières (certaines de ces compétences sont décrites dans **magie**) :
-- *Disciple étranger à l'académie* : aucune compétence supplémentaire, mais un paquet de cartes complet (voir **le système de magie**) + un joker.
+**Note :** les mages ont accès dès le départ à des compétences particulières (certaines de ces compétences sont décrites dans [le système de magie](<../La magie>)) :
+- *Disciple étranger à l'académie* : aucune compétence supplémentaire, mais un paquet de cartes complet (voir [le système de magie](<../La magie>)) + un joker.
 - *Magicien de la couronne ou disciple de l'académie* : 
 	- Modélisation à 60 %
 	- Connaissance des secrets à 60%
