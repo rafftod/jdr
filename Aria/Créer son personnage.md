@@ -92,11 +92,13 @@ Pour calculer vos compétences :
 	- Lire, écrire à 80%
 	- Voler la magie à 30%
 	- Combat rapproché à 60%
+	
 	Si les scores ci-dessus sont supérieurs à ceux calculés au préalable, ils les remplacent. Le miséricordieux commence en outre la campagne avec 10 cartes prises au hasard dans le paquet (qu’il ne peut pas regarder), plus le joker (voir [le système de magie](La%20magie.md)).
 - *Mage de Varna* : 
 	- Lire, écrire à 60%
 	- Courir, sauter à 70%
-	- Son sortilège de départ à 50%
+	- Son sortilège de départ à 50%.
+	
 	S’ils dépassent ceux calculés au préalable, les scores ci-dessus les remplacent.
 - *Alchimiste* :
 	- Identifier une substance 40%
