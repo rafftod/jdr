@@ -15,7 +15,7 @@ Une fois ces caractéristiques déterminées, vous avez déjà une idée de la d
 
 -   Aventurier : Assez équilibré, peu de compétences spéciales, mais très bonnes chances de survivre. Individu nomade qui peut se débrouiller en à peu près tout.
 
--   Alchimiste : pratiquant de la noble magie de Kniga, l'alchimiste sait créer des potions et peut identifier la nature de substances qui le permettent. L'alchimie est décrite plus en profondeur sur la [page magie](<./La magie#L'alchimie de Kniga>).
+-   Alchimiste : pratiquant de la noble magie de Kniga, l'alchimiste sait créer des potions et peut identifier la nature de substances qui le permettent. L'alchimie est décrite plus en profondeur sur la [page magie](<./La magie#l-alchimie-de-kniga>).
 
 -   Combattant : très puissant physiquement et menaçant, le combattant se focalise sur le combat au corps à corps, souvent équipé d'une lourde armure, d'armes et d'un bouclier. Il possède également des compétences de soin rudimentaires.
 
@@ -26,7 +26,7 @@ Une fois ces caractéristiques déterminées, vous avez déjà une idée de la d
     -   Un miséricordieux. Quand le potentiel des mages se tarit, ils ont tendance à devenir incontrôlables. L'ordre des miséricordieux est un corps d'élite de mages chargé de traquer ceux qui approchent de cette fin, capables de magie de haut niveau et de combat traditionnel sans pitié. Lui-même très, voire trop avancé dans sa pratique magique, il se repaît de la magie des autres.
     
     **Note** : un mage d'Aria nécessite une Intelligence minimale de 14.
-    Les compétences des mages d'Aria sont décrites [ci-après](<#Les compétences>), et la magie sur la [page dédiée](<./La magie#Les quatre visages de la magie d'Aria>).
+    Les compétences des mages d'Aria sont décrites [ci-après](#les-compétences), et la magie sur la [page dédiée](<./La magie>).
 
 -   Noble : ses plus grands atouts sont sa verbe et ses connaissances du monde de l'aristocratie. Baratiner quelqu'un ou trouver un mécène est un jeu d'enfant pour le noble, charismatique et beau-parleur.
 
@@ -41,7 +41,7 @@ Une fois ces caractéristiques déterminées, vous avez déjà une idée de la d
     Vous avez en outre renoncé aux armes et ne combattez pas, sauf pour vous défendre.
     
     **Note** : un mage de Varna nécessite une Intelligence minimale de 16.
-    Les compétences du mage de Varna sont décrites [ci-après](<#Les compétences>), et la magie sur la [page dédiée](<./La magie#La magie de Varna>).
+    Les compétences du mage de Varna sont décrites [ci-après](#les-compétences), et la magie sur la [page dédiée](./La magie#la-magie-de-varna).
 
 Bien sûr, ce ne sont que des exemples ! Ils sont là pour vous aider à voir les possibilités, mais tout est possible (barde, diplomate, marchand, cuisinier, médecin...) ! Faites un personnage que vous avez vraiment envie de jouer, c'est le plus important !
 
