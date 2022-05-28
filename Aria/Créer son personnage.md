@@ -84,6 +84,7 @@ Pour calculer vos compétences :
 	- Modélisation à 60 %
 	- Connaissance des secrets à 60%
 	- Lire, écrire à 80 %
+	
 	S’ils sont supérieurs à ceux calculés au préalable, les scores ci-dessus les remplacent.
 	Le magicien commence en outre la campagne avec 25 cartes prises au hasard dans le paquet (qu’il ne peut pas regarder), plus le joker (voir [le système de magie](La%20magie.md)).
 - *Miséricordieux* :
