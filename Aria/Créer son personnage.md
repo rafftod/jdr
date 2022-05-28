@@ -15,7 +15,7 @@ Une fois ces caractéristiques déterminées, vous avez déjà une idée de la d
 
 -   Aventurier : Assez équilibré, peu de compétences spéciales, mais très bonnes chances de survivre. Individu nomade qui peut se débrouiller en à peu près tout.
 
--   Alchimiste : pratiquant de la noble magie de Kniga, l'alchimiste sait créer des potions et peut identifier la nature de substances qui le permettent. L'alchimie est décrite plus en profondeur sur la [page magie](La%20magie.md#l-alchimie-de-kniga).
+-   Alchimiste : pratiquant de la noble magie de Kniga, l'alchimiste sait créer des potions et peut identifier la nature de substances qui le permettent. L'alchimie est décrite plus en profondeur sur la [page magie](La%20magie.md#l'alchimie-de-kniga).
 
 -   Combattant : très puissant physiquement et menaçant, le combattant se focalise sur le combat au corps à corps, souvent équipé d'une lourde armure, d'armes et d'un bouclier. Il possède également des compétences de soin rudimentaires.
 
