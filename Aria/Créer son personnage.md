@@ -15,7 +15,7 @@ Une fois ces caractéristiques déterminées, vous avez déjà une idée de la d
 
 -   Aventurier : Assez équilibré, peu de compétences spéciales, mais très bonnes chances de survivre. Individu nomade qui peut se débrouiller en à peu près tout.
 
--   Alchimiste : pratiquant de la noble magie de Kniga, l'alchimiste sait créer des potions et peut identifier la nature de substances qui le permettent. L'alchimie est décrite plus en profondeur sur la [page magie](La%20magie.md#l'alchimie-de-kniga).
+-   Alchimiste : pratiquant de la noble magie de Kniga, l'alchimiste sait créer des potions et peut identifier la nature de substances qui le permettent. L'alchimie est décrite plus en profondeur sur la [page magie](La%20magie.md#lalchimie-de-kniga).
 
 -   Combattant : très puissant physiquement et menaçant, le combattant se focalise sur le combat au corps à corps, souvent équipé d'une lourde armure, d'armes et d'un bouclier. Il possède également des compétences de soin rudimentaires.
 
@@ -134,7 +134,7 @@ Quelques exemples issus de Game of Roles :
 # Équipement
 Vous avez 2 options pour déterminer votre équipement :
 
-- Optez pour un [*bundle* d’aventure](L'équipement.md#kits-d'équipement) (regroupant plusieurs objets) et ajoutez-y deux autres objets de votre choix.
+- Optez pour un [*bundle* d’aventure](L'équipement.md#kits-déquipement) (regroupant plusieurs objets) et ajoutez-y deux autres objets de votre choix.
 -  Compte tenu du profil de votre personnage, réfléchissez aux possessions qu’il pourrait légitimement posséder et notez jusqu’à dix d’entre elles directement sur votre fiche. Il est évident qu’un mercenaire ne disposera pas d’une monture de guerre mais pourra tout à fait posséder une armure, une épée, un poignard, une couverture, une gourde, un sac à dos, un briquet, une casserole, des cataplasmes, sans oublier une bourse. Un caravanier pourrait disposer de cartes, d’une boussole, de vivres, d’une tente, d’une couverture, d’une dague, de laissez-passer, d’un nécessaire à écrire, d’une loupe et, bien évidemment, d’une bourse bien garnie. Ne vous sentez pas obligé de trouver pile dix objets, vous pouvez tout à fait vous limiter dès que vous estimez avoir fait le tour de vos affaires.
 
 Vous possédez également 1d10 pièces d'or.
