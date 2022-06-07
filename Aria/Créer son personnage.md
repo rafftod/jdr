@@ -98,7 +98,7 @@ Pour calculer vos compétences :
 - *Mage de Varna* : 
 	- Lire, écrire à 60%
 	- Courir, sauter à 70%
-	- Son sortilège de départ à 50%.
+	- Son sortilège de départ à 50%. Si un jet pour lancer un sortilège échoue, le personnage ne peut plus le lancer jusqu'au lendemain.
 	
 	S’ils dépassent ceux calculés au préalable, les scores ci-dessus les remplacent.
 - *Alchimiste* :
