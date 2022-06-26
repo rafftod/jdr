@@ -34,8 +34,7 @@ Refroidissement global de la Terre, flore mourante, et extension de l'obscurité
 Été 2036 : 24 immortels se révèlent. Org mondiale qui doit sauver le monde, très vite cible des complotistes. Résistants au suicide
 
 Top 24 villes du monde deviennent des arches qui sont très lumineuses pour repousser les ombres. Asservissement de la population qui devient fichée. QG: Australie
-
-![[Pasted image 20220325014400.png]]
+![](Images/Pasted%20image%2020220325014400.png)
 
 Début 2037 : 3 milliards de pers dans les arches. 
 
@@ -52,7 +51,5 @@ Rédaction d'un code d'honneur.
 
 Ajd : fin 2037. 9 modèles de méta-armures dispos.
 ## Chronologie globale
-
-![[Pasted image 20220324223541.png]]
-
-![[Pasted image 20220324223605.png]]
+![](Images/Pasted%20image%2020220324223541.png)
+![](Images/Pasted%20image%2020220324223605.png)

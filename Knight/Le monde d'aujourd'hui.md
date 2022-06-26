@@ -52,7 +52,8 @@ Monnaie : crédits qui donnent accès à des loisirs ou à de la vraie nourritur
 
 Immenses entreprises + affiliations => Une arche ne manque jamais de ressources et les immortels ont tout ce qu'ils veulent. Leur seule limite : l'Anathème.
 
-![[Pasted image 20220325004645.png]]
+![](Images/Pasted%20image%2020220325004645.png)
+
 #### Les centres-villes
 Centre-ville: sécurisés, accès : échelons 1->6. Commerces, bars, boutiques pour riches. Expos, théâtre, concerts, projections. Simulacre de vie d'avant.
 

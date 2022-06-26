@@ -4,4 +4,4 @@
 - Raphaël MacTavish : porteur d'Excalibur, surnommé Arthur
 
 # Immortels
-![[Pasted image 20220324235212.png]]
+![](Images/Pasted%20image%2020220324235212.png)

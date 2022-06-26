@@ -175,7 +175,8 @@ Style non précisé = standard.
 ## Points de Santé
 S'ils tombent à 0, agonie. Blessure aléatoire du tableau des blessures. Ne peut que ramper. Doit être soigner pour pouvoir agir.
 
-![[Pasted image 20220325232757.png]]
+
+![](Images/Pasted%20image%2020220325232757.png)
 
 Blessure à l'agonie : deuxième blessure
 2e blessure à l'agonie, mort.
@@ -253,7 +254,8 @@ Jet : *Combat* + *Force*/*Tir*
 
 +d'overdrives de *Force* = + de poids soulevable
 
-![[Pasted image 20220326000156.png]]
+
+![](Images/Pasted%20image%2020220326000156.png)
 
 Soulever qqun : mode Goliath de l'armure Barbarian ou OD de force (PNJ de Chair < 8). Le PNJ utilisé subit 4d6 + *Force(joueur)* x 2, le PNJ qui subit aussi. Attraper qqun : jet base *Combat* + jet base *Force* opposé à *Chair(PNJ)* / 2.
 
@@ -311,7 +313,8 @@ Dépenser 3 points d'héroïsme : utiliser une carte aléatoire du tarot. Utilis
 Cartes : voir page 98-99.
 
 ### Mode héroïque
-![[Pasted image 20220326005051.png]]
+
+![](Images/Pasted%20image%2020220326005051.png)
 
 # Jouer les PNJ
 Jet = score d'aspect
@@ -322,7 +325,8 @@ Jet = score d'aspect
 - Dame : aura - éloquence
 - Masque : rapidité - discrétion
 ## Aspects exceptionnels
-![[Pasted image 20220326010140.png]]
+![](Images/Pasted%20image%2020220326010140.png)
+
 ## Combat
 Grouper les mêmes ennemis (jets d'attaque + jets de dégâts)
 
