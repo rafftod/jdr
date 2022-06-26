@@ -1,14 +1,14 @@
 # Résumé
-1. Score de base
-2. Archétype
-3. Tirage des cartes
-4. Haut fait
-5. Blason & Voeu
-6. Motivations
-7. Méta-armure
-8. Choix d'une section
-9. Valeurs dérivées
-10. Achats à l'arsenal
+1. [Score de base](#scores-de-base)
+2. [Archétypes](#archétypes)
+3. [Tirage des cartes](#tirage-des-cartes)
+4. [Haut fait](#le-haut-fait)
+5. [Blason & Voeu](#le-blason-et-le-voeu)
+6. [Motivations](#les-motivations)
+7. [Méta-armure](#méta-armure)
+8. [Choix d'une section](#choix-de-la-section)
+9. [Valeurs dérivées](#valeurs-dérivées)
+10. [Achats à l'arsenal](#achats-et-finalisation)
 
 Dans chaque ressource du [site](https://www.knight-jdr-systeme.fr/fr/), vous pouvez cliquer sur le nom de la ressource (armure, module, arme...) pour avoir plus de détails. 
 
