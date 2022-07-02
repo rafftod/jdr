@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Knight/Système de jeu.md",
+            "file": "Knight/La forge et l'art.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knight/Système de jeu.md",
+                "file": "Knight/La forge et l'art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "cda7f09bdd6774bb",
   "lastOpenFiles": [
+    "Knight/La forge et l'art.md",
+    "Untitled.md",
     "Knight/Système de jeu.md",
     "Knight/Contexte historique.md",
     "Knight/Créer son personnage.md",
@@ -96,8 +98,6 @@
     "Knight/Le monde d'aujourd'hui.md",
     "Knight/Personnages importants.md",
     "Images/Pasted.md",
-    "Knight/README.md",
-    "README.md",
-    "Aria/Créer son personnage.md"
+    "Knight/README.md"
   ]
 }
